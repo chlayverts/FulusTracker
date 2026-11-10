@@ -4,6 +4,12 @@ Aplikasi pencatat keuangan pribadi untuk membantu kamu memahami pemasukan, penge
 
 > **Status:** tahap awal pengembangan. Versi pertama berfokus pada dashboard demo yang berjalan di browser dengan data contoh.
 
+## Preview dashboard
+
+![Tampilan dashboard FulusTracker](public/dashboard-preview.png)
+
+Screenshot di atas menggunakan data contoh dan hanya untuk pratinjau.
+
 ## Fitur versi awal
 
 - Ringkasan saldo, pemasukan, dan pengeluaran.
@@ -64,3 +70,5 @@ Versi awal ini menggunakan data demo di sisi browser. Jangan masukkan informasi 
 ## Kontribusi
 
 Silakan buat issue untuk menyampaikan bug atau ide fitur. Perubahan kode dapat diajukan melalui pull request.
+
+
