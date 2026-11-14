@@ -1,0 +1,19 @@
+{
+  "name": "FulusTracker",
+  "short_name": "Fulus",
+  "description": "Dashboard keuangan pribadi: catat transaksi, atur anggaran, lihat insight. Data tersimpan lokal di browser.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f9f7",
+  "theme_color": "#177c58",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
