@@ -8,9 +8,15 @@ Aplikasi pencatat keuangan pribadi untuk membantu kamu memahami pemasukan, penge
 
 ## Preview dashboard
 
-![Tampilan dashboard FulusTracker](public/dashboard-preview.png)
+**Mode terang**
 
-Screenshot di atas menggunakan data contoh dan hanya untuk pratinjau.
+![Dashboard FulusTracker mode terang](public/dashboard-preview.png)
+
+**Mode gelap**
+
+![Dashboard FulusTracker mode gelap](public/dashboard-preview-dark.png)
+
+Screenshot diambil dari demo publik menggunakan data contoh.
 
 ## Fitur
 
